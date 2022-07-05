@@ -1,2 +1,2 @@
 # CDN
-cdn
+cdn加速
