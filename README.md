@@ -1,2 +1,2 @@
 # CDN
-cdn加速
+cdn for blog
